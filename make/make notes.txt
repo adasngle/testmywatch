@@ -1,0 +1,3 @@
+MMI>make HEXING60A_11B_GPRS gprs new
+
+gen_modis codegen_modis
